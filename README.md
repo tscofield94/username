@@ -9,6 +9,8 @@
 ## Program Description
 [Write 2-3 sentences in your own words describing what this script does and its purpose. Explain the problem it solves and how it works at a high level.]
 
+
+
 ## Username Requirements
 This script validates usernames according to the following rules:
 - Must start with a lowercase letter
